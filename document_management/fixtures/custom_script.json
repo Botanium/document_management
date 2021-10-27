@@ -1,0 +1,11 @@
+[
+ {
+  "docstatus": 0, 
+  "doctype": "Custom Script", 
+  "dt": "Document Record", 
+  "modified": "2018-06-25 01:21:43.466681", 
+  "name": "Document Record-Client", 
+  "script": "frappe.ui.form.on(\"Document Record\", {\n    onload_post_render: function(frm) {\n\n        // This function is run right after a Sales Invoice is rendered and loaded\n        \n\ncur_frm.set_value(\"document_by\",user);\nif(user ==\"Administrator\"){alert(\"Firyad Note: No details for the sender was fetched since there is no employee for Administrator, the system will now show you an error ... in order for details to be fetched an account has to be created\")} \n\nvar container;\nfrappe.call({\n    'method': 'frappe.client.get',\n    'args': {\n        'doctype': 'Employee',\n        'fieldname': 'user_id',\n        'filters': {\n            'user_id': user\n          }\n        }\n        ,\n       callback: function(r){\n   //    msgprint(r.message.salutation);\n\ncontainer = r.message.company +\"\\n\"+r.message.salutation +\". \"+r.message.employee_name +\"\\n\"+r.message.designation +\"\\n\"+ r.message.company_email+\"\\n\"+ r.message.cell_number\ncur_frm.set_value(\"sender_details\",container);\n       \n}\n    \n});\n\n// https://github.com/frappe/frappe/wiki/Developer-Cheatsheet\n\n\n        // This listener is added to the customer field, listening for a keypress event\n       // cur_frm.fields_dict.customer.$input.on(\"keypress\", function(evt){\n\t    // Code specified here will run when a key is pressed on the customer field.\n      //  });\n    \n\n\n\n}\n});\n\n\n//var x = document.getElementsByClassName(\"ellipsis title-text\");\n//var bb =  x[0].innerHTML;\n//alert(bb)\n\n//if( ! bb.indexOf(\"Document\") !== -1){}else{\n//cur_frm.set_value(\"document_ref_test\",  x[0].innerHTML );\n//}\n\n//var ss = document.getElementsByClassName(\"control-input\");\n//ss[0].innerHTML = bb;\n\n", 
+  "script_type": "Client"
+ }
+]

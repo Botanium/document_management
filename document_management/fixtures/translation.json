@@ -1,0 +1,132 @@
+[
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-22 03:28:59.515699", 
+  "name": "5c12712181", 
+  "source_name": "DRAFT", 
+  "target_name": "\u0646\u0648\u0633\u0631\u0627\u0648\u06cc \u067e\u06ce\u0634\u06cc\u0646\u06d5\u06cc\u06cc"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-22 03:26:20.339548", 
+  "name": "b424eaf857", 
+  "source_name": "To", 
+  "target_name": "\u0628\u06c6 \u0628\u06d5\u0695\u06ce\u0632"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-22 03:30:54.136769", 
+  "name": "6c435f77c5", 
+  "source_name": "Date", 
+  "target_name": "\u0628\u06d5\u0631\u0648\u0627\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-22 03:31:50.655516", 
+  "name": "3c15c0d710", 
+  "source_name": "Subject", 
+  "target_name": "\u0628\u0627\u0628\u06d5\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "language_code": "ar", 
+  "modified": "2018-06-23 06:01:20.686008", 
+  "name": "772e7e0f3e", 
+  "source_name": "Laboratory", 
+  "target_name": "\u0627\u0644\u0645\u062e\u062a\u0628\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-25 00:45:30.813402", 
+  "name": "efe1883953", 
+  "source_name": "Document No", 
+  "target_name": "\u0646\u0648\u0633\u0631\u0627\u0648\u06cc \u0698\u0645\u0627\u0631\u06d5"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-25 00:34:52.518160", 
+  "name": "d0bc176728", 
+  "source_name": "Document Record", 
+  "target_name": "\u0646\u0648\u0633\u0631\u0627\u0648\u06cc \u062a\u06c6\u0645\u0627\u0631\u06a9\u0631\u0627\u0648"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-25 00:35:15.372161", 
+  "name": "99e214b31a", 
+  "source_name": "Document Ref:", 
+  "target_name": "\u0646\u0648\u0633\u0631\u0627\u0648\u06cc \u0698\u0645\u0627\u0631\u0647\u200c:"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-25 00:50:20.752368", 
+  "name": "c5d381bac8", 
+  "source_name": "Ref:", 
+  "target_name": "\u0628\u0627\u0628\u06d5\u062a"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "ar", 
+  "language_code": "ar", 
+  "modified": "2018-06-25 03:08:56.502920", 
+  "name": "3b0c9e4f17", 
+  "source_name": "Document No", 
+  "target_name": "\u0631\u0642\u0645 \u0627\u0644\u0645\u0644\u0641"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-26 16:21:32.555161", 
+  "name": "4b99ffb89b", 
+  "source_name": "BETWEEN", 
+  "target_name": "\u0644\u06d5 \u0646\u06ce\u0648\u0627\u0646"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-26 17:00:06.331959", 
+  "name": "892b7bb59a", 
+  "source_name": "Details of Employment", 
+  "target_name": "\u0632\u0627\u0646\u06cc\u0627\u0631\u06cc \u06a9\u0627\u0631"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Translation", 
+  "language": "Kurdish", 
+  "language_code": "KURDISH", 
+  "modified": "2018-06-26 16:49:04.785560", 
+  "name": "3182b8530e", 
+  "source_name": "Employment Contract", 
+  "target_name": "\u06af\u0631\u06ce\u0628\u06d5\u0633\u062a\u06cc \u06a9\u0627\u0631"
+ }
+]

@@ -1,0 +1,35 @@
+[
+ {
+  "amended_from": null, 
+  "department": "", 
+  "docstatus": 0, 
+  "doctype": "Document Record Template", 
+  "modified": "2018-06-25 11:24:43.658213", 
+  "name": "DocRT-00001", 
+  "series": "DocRT-", 
+  "template_content": "<div>Dear .....,</div><div>Please review the attached letter and approve.</div><div><br></div><div>Thank you</div><div><br></div>", 
+  "template_name": "Technical Information"
+ }, 
+ {
+  "amended_from": null, 
+  "department": "", 
+  "docstatus": 0, 
+  "doctype": "Document Record Template", 
+  "modified": "2018-06-25 11:26:04.379570", 
+  "name": "DocRT-00002", 
+  "series": "DocRT-", 
+  "template_content": "<div><br></div><div><div>Dears at Engineering Company,</div><div><br></div><div>Further to your submission of the attached engineering work, kindly note we have approved your work for the documents below:</div><div>\u00a0</div><div>- DD876345</div><div>- DD973945</div><div>\u00a0\u00a0</div><div>Thank you</div></div>", 
+  "template_name": "Letter to Engineering Company"
+ }, 
+ {
+  "amended_from": null, 
+  "department": "Finance", 
+  "docstatus": 0, 
+  "doctype": "Document Record Template", 
+  "modified": "2018-06-25 11:23:50.339573", 
+  "name": "DocRT-00003", 
+  "series": "DocRT-", 
+  "template_content": "<div><br></div><div>Dear ......,</div><div><br></div><div>Kindly process the payments for the attached invoice.</div><div><br></div><div><br></div><div>Best Regards,</div><div><br></div><div><br></div>", 
+  "template_name": "Payment Processing "
+ }
+]
